@@ -118,7 +118,7 @@ Danger Level 1: Rest at Home (Green)
 
 Danger Level 2: Go to Pharmacy (Yellow)
 
-Danger Level 3: Immediately Go to Pharmacy (Orange)
+Danger Level 3: Immediately Go to Doctor (Orange)
 
 Danger Level 4: Go to Emergency Room (Red)
 
